@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/f3fb5064-59e0-486f-a724-9a909d6010b5)
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/emanuelradino/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,24 +12,13 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
   <h1></h1>
-- 🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.
-- 🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.
-- 📃 Busco colaborar en proyectos.
-- 💬 Pregúntame sobre: 
-  - HTML 
-  - CSS 
-  - JavaScript 
-  - ReactJS 
-  - Node.js 
-  - NextJS 
-  - Tailwind CSS 
-  - Framer Motion 
-  - TypeScript 
-  - SQL Server 
-  - MySQL 
-  - MongoDB 
-  - PostgreSQL
-
+ ### :man_technologist: Acerca de mi :
+- :mortar_board: Actualmente soy Estudiante de la carrera Licenciatura en Informática.
+- :mortar_board: Soy Analista en Sistemas de información. 
+- :book: Actualmente estoy aprendiendo Next.js, React, Java.
+- :notebook: Busco colaborar en proyectos.
+- :speech_balloon: Pregúntame sobre: HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelradino/)
   
 
 
