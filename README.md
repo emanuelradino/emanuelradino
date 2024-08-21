@@ -18,7 +18,6 @@
 - :book: Actualmente estoy aprendiendo Next.js, React, Java.
 - :notebook: Busco colaborar en proyectos.
 - :speech_balloon: Pregúntame sobre: HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelradino/)
   
 
 
