@@ -11,10 +11,7 @@
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
-  
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+  <h1></h1>
 - 🔭 Actualmente soy Soy Estudiante de la carrera Licenciatura en informatica.
 - 🌱 Actualmente estoy aprendiendo Next.js, React, Java GitHub.
 - 📃 Busco colaborar en Proyectos.
