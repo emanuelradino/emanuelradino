@@ -12,14 +12,27 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
  
-:man_technologist: Acerca de mi :
+<br>
+
+  
+
+
+ 🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.
+
+🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.
+
+📃 Busco colaborar en proyectos.
+
+💬 Pregúntame sobre: HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL
+
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+
  
-<li><span>🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.</span></li>
-<li><span>🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.</span></li>
-<li><span>📃 Busco colaborar en proyectos.</span></li>
-<li><span>💬 Pregúntame sobre: 
-<span class="skills-inline">HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL</span>
-</span></li>
+ 
+<br>
  
 
 
