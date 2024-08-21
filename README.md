@@ -15,13 +15,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently Soy Estudiante de la carrera Licenciatura en informatica.
+- 🔭 Actualmente soy Soy Estudiante de la carrera Licenciatura en informatica.
   
-- 🌱 I’m currently learning Next.js,React,Java GitHub
+- 🌱 Actualmente estoy aprendiendo Next.js, React, Java GitHub
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 Busco colaborar en Proyectos
   
-- 💬 Ask me about HTML| CSS | |Javascript | ReactJS | Node JS| NextJS | Tailwind CSS | Framer Motion | TypeScript | Sql server | Mysql |Mongo DB |Postgre Sql|
+- 💬 Pregúntame sobre: HTML| CSS | |Javascript | ReactJS | Node JS| NextJS | Tailwind CSS | Framer Motion | TypeScript | Sql server | Mysql |Mongo DB |Postgre Sql|
   
 
 
