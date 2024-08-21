@@ -4,32 +4,18 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     
-<div class="profile-container">
-  <h1>
-    Hola! Mi nombre es Emanuel. Gracias por tomarte el tiempo de ver mi perfil de Github
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+<div class="about-me">
+  <h2>Acerca de mí</h2>
+  <p>Hola! Mi nombre es Emanuel. Gracias por tomarte el tiempo de ver mi perfil de Github. Soy un entusiasta de la tecnología con pasión por el desarrollo de software. Constantemente exploro nuevas tecnologías y acepto desafíos. Con un enfoque en la colaboración y el apoyo de la comunidad, me esfuerzo por inspirar a otros a superar sus límites y perseguir la grandeza. ¡Creamos soluciones innovadoras juntos!</p>
   
-  <div class="centered-image">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-
-  <div class="info-section">
-    <p>🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.</p>
-    <p>🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.</p>
-    <p>📃 Busco colaborar en proyectos.</p>
-    <p>💬 Pregúntame sobre: 
-      <span class="skills-inline">HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL</span>
-    </p>
-  </div>
+  <ul>
+    <li>🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.</li>
+    <li>🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.</li>
+    <li>📃 Busco colaborar en proyectos.</li>
+    <li>💬 Pregúntame sobre: HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL</li>
+  </ul>
 </div>
 
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
- 
- 
-<br>
  
 
 
