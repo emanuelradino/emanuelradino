@@ -13,12 +13,10 @@
   </div>
   <h1></h1>
  ### :man_technologist: Acerca de mi :
-- :mortar_board: Actualmente soy Estudiante de la carrera Licenciatura en Informática.
-- :mortar_board: Soy Analista en Sistemas de información. 
-- :book: Actualmente estoy aprendiendo Next.js, React, Java.
-- :notebook: Busco colaborar en proyectos.
-- :speech_balloon: Pregúntame sobre: HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL
-  
+<li>🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.</li>
+<li>🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.</li>
+<li>📃 Busco colaborar en proyectos.</li>
+<li>💬 Pregúntame sobre:</li>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
