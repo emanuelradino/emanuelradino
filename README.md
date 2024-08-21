@@ -11,16 +11,16 @@
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
-  <h1></h1>
+ 
 :man_technologist: Acerca de mi :
 <ul>
-        <li>🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.</li>
-        <li>🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.</li>
-        <li>📃 Busco colaborar en proyectos.</li>
-        <li>💬 Pregúntame sobre: 
+<li>🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.</li>
+<li>🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.</li>
+<li>📃 Busco colaborar en proyectos.</li>
+<li>💬 Pregúntame sobre: 
             <span class="skills-inline">HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL</span>
-        </li>
-    </ul>
+</li>
+</ul>
 </div>
 
 
