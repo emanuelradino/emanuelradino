@@ -12,10 +12,24 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
   <h1></h1>
-- 🔭 Actualmente soy Soy Estudiante de la carrera Licenciatura en informatica.
-- 🌱 Actualmente estoy aprendiendo Next.js, React, Java GitHub.
-- 📃 Busco colaborar en Proyectos.
-- 💬 Pregúntame sobre: HTML| CSS | |Javascript | ReactJS | Node JS| NextJS | Tailwind CSS | Framer Motion | TypeScript | Sql server | Mysql |Mongo DB |Postgre Sql|
+- 🔭 Actualmente soy Estudiante de la carrera Licenciatura en Informática.
+- 🌱 Actualmente estoy aprendiendo Next.js, React, Java y GitHub.
+- 📃 Busco colaborar en proyectos.
+- 💬 Pregúntame sobre: 
+  - HTML 
+  - CSS 
+  - JavaScript 
+  - ReactJS 
+  - Node.js 
+  - NextJS 
+  - Tailwind CSS 
+  - Framer Motion 
+  - TypeScript 
+  - SQL Server 
+  - MySQL 
+  - MongoDB 
+  - PostgreSQL
+
   
 
 
