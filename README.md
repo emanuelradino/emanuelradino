@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f3fb5064-59e0-486f-a724-9a909d6010b5)
+
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/emanuelradino/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
