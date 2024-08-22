@@ -22,7 +22,7 @@
       <span class="skills-inline">HTML | CSS | JavaScript | ReactJS | Node.js | NextJS | Tailwind CSS | Framer Motion | TypeScript | SQL Server | MySQL | MongoDB | PostgreSQL</span>
     </p>
   </div>
-</div>
+
 
  
 
